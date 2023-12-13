@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-import math
 
-""" """
+""" Module that contains the floor function """
+import math
 
 
 def floor(n: float) -> int:
